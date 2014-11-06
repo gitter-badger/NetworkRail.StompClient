@@ -1,4 +1,5 @@
 ## Network Rail Stomp Client
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/tomlane/NetworkRail.StompClient?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 This is a basic STOMP client written in C# using the .net framework. It can be used to subscribe to and collect messages from the [Network Rail data feeds](http://datafeeds.networkrail.co.uk).
 
